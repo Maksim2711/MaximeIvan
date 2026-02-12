@@ -3,7 +3,8 @@
 
 📍 Ottawa, Canada  
 📧 Email : 2739900@collegelacite.ca  
-🔗 LinkedIn : (https://www.linkedin.com/in/maxime-youyidia-b24826314)
+🔗 LinkedIn : https://www.linkedin.com/in/maxime-youyidia-b24826314
+
 ---
 
 ## 🚀 À propos de moi
