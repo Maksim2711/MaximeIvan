@@ -56,6 +56,7 @@ HTML • CSS • JavaScript • EJS
 
 **Compétences démontrées**
 Développement full-stack • Organisation des données • Authentification • Structuration d’une application web
+
 **🔗 Lien vers le répertoire :**  
 [Voir le projet sur GitHub](https://github.com/Maksim2711/Projet_programmation_web_serveur.git)
 ---
