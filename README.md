@@ -1,9 +1,6 @@
-# 👨‍💻 Maxime Youyidia
-### Développeur logiciel | Web & Machine Learning
-
 📍 Ottawa, Canada  
 📧 Email : 2739900@collegelacite.ca  
-🔗 LinkedIn : https://www.linkedin.com/in/maxime-youyidia-b24826314
+🔗 LinkedIn : [Voir le profil linkedIn](https://www.linkedin.com/in/maxime-youyidia-b24826314)
 
 ---
 
