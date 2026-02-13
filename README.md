@@ -39,6 +39,26 @@ Je m’intéresse particulièrement aux solutions fonctionnelles, bien structur�
 
 ## 📂 Projets
 
+
+### 🏢 Système de gestion d’entreprise
+
+Application web permettant à une entreprise de gérer ses employés, ses clients et ses projets via une interface centralisée et sécurisée.
+
+Le système facilite l’organisation interne en regroupant toutes les informations importantes sur une seule plateforme.
+
+**Fonctionnalités**
+- Gestion des employés (ajout, modification, suppression)
+- Gestion des clients
+- Gestion des projets
+- Système de connexion sécurisé
+**Technologies utilisées**
+HTML • CSS • JavaScript • EJS
+
+**Compétences démontrées**
+Développement full-stack • Organisation des données • Authentification • Structuration d’une application web
+**🔗 Lien vers le répertoire :**  
+[Voir le projet sur GitHub](https://github.com/Maksim2711/Projet_programmation_web_serveur.git)
+---
 ### 🚌 Système de réservation de billets de transport
 **Technologies :** JavaScript, MySQL  
 
@@ -49,18 +69,6 @@ Système permettant la réservation de billets pour différents moyens de transp
 - Réservation de billets  
 - Stockage des réservations en base de données  
 - Gestion des disponibilités  
-
----
-
-### 🏢 Système de gestion d’entreprise
-**Technologies :** HTML, CSS, EJS, JavaScript  
-
-Application web de gestion interne intégrant :
-- Gestion des employés  
-- Gestion des clients  
-- Gestion des projets  
-- Système de connexion (authentification)  
-**🔗 liens vers le repertoire :** https://github.com/Maksim2711/Projet_programmation_web_serveur.git
 ---
 
 ### 🚗 Détection de la disponibilité d’un parking à partir d’images
